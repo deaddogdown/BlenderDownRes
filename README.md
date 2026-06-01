@@ -24,15 +24,15 @@ It WILL probably work on your version of Blender that is a non-LTS, so give it a
 Down-Res is a production tool that saves time on tedious texture management tasks. It allows you to:
 
 - Reduce texture resolutions across your entire scene with one click
-- Preview down-scaled textures before committing
-- Save permanently only when you're ready
+- Down-scaled textures ready for export
+- Only save to blend permanently when you're ready
 - Maintain aspect ratios automatically
 
 ## 🧰 Features
 
 - **Non-destructive workflow** - Preview changes before saving
 - **Four resolution presets** - 2K, 1K, 512, 256 pixels
-- **One-click preview** - See immediate results in your viewport
+- **One-click Down Res** - See immediate results in your viewport and export ready
 - **Save to blend file** - Make changes permanent when you're happy
 - **Automatic aspect ratio** - Maintains correct proportions
 - **Texture counting** - See how many textures are in your scene
@@ -59,7 +59,7 @@ Down-Res makes this process fast, visual, and safe.
 
 Here's a quick look at the Blender Down-Res interface:
 
-![Main Window](screenshots/BlenderDownResMain.jpg)
+![Main Window](screenshots/BlenderDownResMain.png)
 
 ## The texture optimization tool you never knew you needed.
 
