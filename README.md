@@ -2,6 +2,10 @@
 
 A tool to lower the resolution on all textures in a scene with one click.
 
+Quick look at the Blender Down-Res interface:
+
+![Main Window](screenshots/BlenderDownResMain.jpg)
+
 Watch our tutorials on youtube: https://www.youtube.com/@DeadDogDown.GameStudio
 
 ## 🖥️ Compatibility
@@ -54,16 +58,6 @@ Down-Res makes this process fast, visual, and safe.
 ## Message from a Game Developer
 
 "I used to spend hours manually scaling textures one by one. Down-Res does it in seconds, and the preview feature means I never accidentally destroy my original textures. It's a production lifesaver."
-
-## 🖼️ Preview
-
-Here's a quick look at the Blender Down-Res interface:
-
-![Main Window](screenshots/BlenderDownResMain.png)
-
-## The texture optimization tool you never knew you needed.
-
-![Main Panel](screenshots/BlenderDownResCloseup.jpg)
 
 ## 📦 Installation
 
