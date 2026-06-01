@@ -2,7 +2,7 @@ bl_info = {
     "name": "Blender Down-Res",
     "author": "Dead Dog Down Game Studio",
     "version": (1, 1, 0),
-    "blender": (3, 6, 0),
+    "blender": (4, 5, 0),
     "location": "View3D > N-Panel > Down-Res",
     "description": "Quick texture resolution reduction for all scene textures",
     "category": "Material",
@@ -10,7 +10,8 @@ bl_info = {
 
 if "bpy" in locals():
     import importlib
-    importlib.reload(BlenderDownRes)
+    if "BlenderDownRes" in locals():
+        importlib.reload(BlenderDownRes)
 else:
     from . import BlenderDownRes
 
